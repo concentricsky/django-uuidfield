@@ -1,3 +1,5 @@
+This is a fork of https://github.com/dcramer/django-uuidfield.
+
 django-uuidfield
 ----------------
 
